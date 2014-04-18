@@ -497,6 +497,7 @@ hr {
   line-height: 42px;
   display: block;
   text-align: center;
+  margin: 10px;
   float: right; }
 
 .game-explanation {
